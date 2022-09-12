@@ -2,15 +2,15 @@
 
 The Ethernaut is a Web3/Solidity based wargame inspired by overthewire.org, played in the Ethereum Virtual Machine, in which each level is based on a smart contract that needs to be "hacked".
 
-This is a sample walkthrough for the level called "Hello Ethernaut".
+This is a sample walkthrough for the level called "Hello Ethernaut": https://ethernaut.openzeppelin.com/level/0x4E73b858fD5D7A5fc1c3455061dE52a53F35d966.
 
 ## Setup
 
 First off we need a wallet. Get the Metamask Wallet from https://metamask.io/ and choose whichever network works for you ( in my case i will be using Rinkeby's testnet).
-Fund the wallet from Chainlink's faucet https://faucets.chain.link/rinkeby and then click on the button "Get new instance" to deploy the contract.
+Fund the wallet with Chainlink's faucet https://faucets.chain.link/rinkeby and then click on the button "Get new instance" to deploy the contract.
 
 ## Steps for completing the level
-Click on F12 to get on Delevoper Tools. You will get something like this:
+Click on F12 to get on Developer Tools. You will get something like this:
 <img src="./images/image1.png">
 
 Run contract and you should get this:
